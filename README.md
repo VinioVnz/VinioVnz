@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius Bornhofen✌️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_bornhofen/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniiizzz_/)
 
 ![Vinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinioVnz&show_icons=true&theme=radical)
 
@@ -11,7 +11,4 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-## Team
 
-- Vinicius Bornhofen https://github.com/VinioVnz
-- Gustavo Gomes https://github.com/GustavooGomes 
