@@ -24,4 +24,14 @@
     </p>
 </div>
 
+## Future perspectives:
+<div style="display: inline_block"><br/>
+    <p>
+        🚀 I'm focused on becoming a <strong>Fullstack Developer</strong>, capable of building complete solutions from frontend to backend.<br/>
+        💼 I'm currently looking for opportunities to grow professionally and apply my knowledge in real projects.<br/>
+        🤝 I'm open to job opportunities where I can contribute, learn, and evolve as a developer.
+    </p>
+</div>
+
+
 
